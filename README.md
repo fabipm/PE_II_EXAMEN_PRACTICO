@@ -8,5 +8,5 @@
 
 ## Mejoras Implementadas
 
-### 1. [Nombre de la mejora 1]
+### 1. [llamado foda por usuario y plan - IDENTIFICACIÓN DE ESTRATEGIAS]
 ![llamado foda por usuario y plan - IDENTIFICACIÓN DE ESTRATEGIAS](imagenes/mejora1.png)  
